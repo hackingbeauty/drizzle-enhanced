@@ -6,7 +6,7 @@
   "react-native": "./src/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/trufflesuite/drizzle"
+    "url": "https://github.com/hackingbeauty/drizzle-enhanced.git"
   },
   "scripts": {
     "build": "webpack --config webpack/release.config.js",
